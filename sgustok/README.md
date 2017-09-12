@@ -4,4 +4,4 @@ Has a mobile version.
 
 Preview: [asriyansh.github.io/sgustok](http://asriyansh.github.io/sgustok)
 
-Live version: [http://sgustokstudio.com](http://http://sgustokstudio.com)
+Live version: [http://sgustokstudio.com](http://sgustokstudio.com)
