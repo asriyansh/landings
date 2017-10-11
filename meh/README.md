@@ -2,6 +2,6 @@ A landing page for "meh" barber shop.
 
 Has a mobile version.
 
-Preview: [asriyansh.github.io/meh](http://asriyansh.github.io/meh)
+Preview: [jeegurda.github.io/meh](http://jeegurda.github.io/meh)
 
 Live version: [mehcut.com](http://mehcut.com/)
